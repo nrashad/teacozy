@@ -1,5 +1,7 @@
 
-
+body{
+  margin: 0;
+}
 .content{
   background-color: black;
   color:seashell;
